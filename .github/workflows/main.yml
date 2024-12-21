@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    name: Jobs to update date
+    name: Jobs to update date and time
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
